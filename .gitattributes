@@ -1,0 +1,8 @@
+* text=auto
+*.gitattributes text
+.gitignore text
+*.md text
+*.js linguist-language=PHP
+*.php linguist-detectable=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
