@@ -1,0 +1,9 @@
+#responsive-menu-links { display: none; }
+
+@media (max-width: 400px) {
+	#responsive-menu-links { display: block; }
+}
+
+@media (max-width: 767px) {
+	#responsive-menu-links { display: block; }
+}

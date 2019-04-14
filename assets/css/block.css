@@ -1,0 +1,18 @@
+body { font-size: 13px; font-family: "Open Sans"; background: rgb(8, 8, 8) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.top-margin { margin-top: 100px; }
+.login-page { background: #FFFFFF; padding: 20px; border-radius: 0px 0px 4px 4px; opacity: .95;}
+.login-page-header { background: #f3f3f3; padding: 10px; border-radius: 4px 4px 0px 0px; text-align: center; border-bottom: 1px solid #dadada; font-weight: 600; color: #5c6267; opacity: .95;}
+.align-center { text-align: center; }
+.decent-margin-top { margin-top: 30px; }
+.decent-margin { margin-top: 10px; margin-bottom: 10px;  }
+
+.center-block-e{
+    float: none;
+    margin: 0 auto;
+}
+.login-alert-area { background: #FFFFFF; padding: 10px; margin: 10px;  }
